@@ -43,3 +43,6 @@ MQTT是一个极其轻量级的发布/订阅消息传输协议，它解除时间
 
 ## 环信MQTT交流群
 ![扫码进群](https://img-blog.csdnimg.cn/b029879ae554417cb350358ed0cc86b8.png#pic_center)
+
+## 环信MQTT技术支持群
+![在这里插入图片描述](https://img-blog.csdnimg.cn/057525596bdd444b8880e63ec9030bc5.jpg#pic_center)
