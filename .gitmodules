@@ -1,0 +1,48 @@
+[submodule "Task-2-WEB"]
+	path = Task-2-WEB
+	url = https://github.com/lpe234/Task-2-WEB
+[submodule "Task-4-web"]
+	path = Task-4-web
+	url = https://github.com/zjimmyking/Task-4-web.git
+[submodule "Creative-Challenge-WaterDrinkReminder"]
+	path = Creative-Challenge-WaterDrinkReminder
+	url = https://github.com/lpe234/Creative-Challenge-WaterDrinkReminder
+[submodule "Creative-Challenge-WebTerm"]
+	path = Creative-Challenge-WebTerm
+	url = https://github.com/one-matrix/Creative-Challenge-WebTerm
+[submodule "Creative-Challenge-MQTT-BugList"]
+	path = Creative-Challenge-MQTT-BugList
+	url = https://github.com/supmaster/Creative-Challenge-MQTT-BugList.git
+[submodule "Task-2-iOS"]
+	path = Task-2-iOS
+	url = https://github.com/Jorson007/Task-2-iOS.git
+[submodule "Task-3-iOS"]
+	path = Task-3-iOS
+	url = https://github.com/Jorson007/Task-3-iOS.git
+[submodule "NRTLocationSharing"]
+	path = NRTLocationSharing
+	url = https://github.com/Jorson007/NRTLocationSharing.git
+[submodule "ReaderRoom"]
+	path = ReaderRoom
+	url = https://github.com/Jacky-LinPeng/ReaderRoom
+[submodule "onLineSeat-MQTT"]
+	path = onLineSeat-MQTT
+	url = https://github.com/Jacky-LinPeng/onLineSeat-MQTT
+[submodule "chatOnLine-MQTT"]
+	path = chatOnLine-MQTT
+	url = https://github.com/Jacky-LinPeng/chatOnLine-MQTT
+[submodule "onLinePK-MQTT"]
+	path = onLinePK-MQTT
+	url = https://github.com/Jacky-LinPeng/onLinePK-MQTT
+[submodule "Task-2-Android"]
+	path = Task-2-Android
+	url = https://github.com/supmaster/Task-2-Android.git
+[submodule "Task-4-Android"]
+	path = Task-4-Android
+	url = https://github.com/smartbackme/Task-4-Android
+[submodule "Creative-Challenge-WTCoin"]
+	path = Creative-Challenge-WTCoin
+	url = https://github.com/smartbackme/Creative-Challenge-WTCoin
+[submodule "Creative-Challenge-DrawingBoard"]
+	path = Creative-Challenge-DrawingBoard
+	url = https://github.com/smartbackme/Creative-Challenge-DrawingBoard
